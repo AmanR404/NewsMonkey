@@ -1,0 +1,212 @@
+{
+  "status": "ok",
+  "totalResults": 35,
+  "articles": [
+    {
+      "source": { "id": null, "name": "The Guardian" },
+      "author": "https://www.theguardian.com/profile/joannawalters",
+      "title": "Republican Herschel Walker pledges to sue over report he paid for abortion – live - The Guardian US",
+      "description": "Anti-abortion Senate candidate in Georgia reportedly paid for the procedure for a former girlfriend in 2009",
+      "url": "https://www.theguardian.com/us-news/live/2022/oct/04/herschel-walker-abortion-senate-biden-roe-wade-trump-latest-updates",
+      "urlToImage": "https://i.guim.co.uk/img/media/4b7eeb3ae3a357793c89814f30d8e7211bd5c2a1/0_68_5916_3550/master/5916.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=e4b8f0145b40450e82adedc0accc714e",
+      "publishedAt": "2022-10-04T14:26:38Z",
+      "content": "If the battle for control of the US Senate overall is on a knife edge in these midterm elections, certain states races are on a razors edge.\r\nThe congressional upper chamber has been split 50-50 sinc… [+5953 chars]"
+    },
+    {
+      "source": { "id": null, "name": "CNBC" },
+      "author": "Tanaya Macheel, Alex Harring",
+      "title": "Stocks rise as investors build on Monday’s rally, Dow jumps 700 points - CNBC",
+      "description": "Stocks surged to start the day Tuesday as Wall Street aimed to build on a sharp rally seen in the previous session.",
+      "url": "https://www.cnbc.com/2022/10/03/stock-market-futures-open-to-close-news.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107125171-1664297547498-nys.jpg?v=1664890983&w=1920&h=1080",
+      "publishedAt": "2022-10-04T14:22:00Z",
+      "content": "Stocks surged Tuesday as Wall Street built on a sharp rally seen in the previous session and bond yields continued to fall.\r\nThe Dow Jones Industrial Average rose 731 points, or 2.5%. The S&amp;P 500… [+1742 chars]"
+    },
+    {
+      "source": { "id": "the-washington-post", "name": "The Washington Post" },
+      "author": "Mary Ilyushina, Emily Rauhala, Isabelle Khurshudyan",
+      "title": "Ukraine hammers Russian forces into retreat on east and south fronts - The Washington Post",
+      "description": "Even as Russia's Federation Council ratified the illegal annexation of four Ukrainian regions, Moscow's military setbacks continued.",
+      "url": "https://www.washingtonpost.com/world/2022/10/04/russia-retreat-kherson-lyman-ukraine/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/PBCZVW3Z4E4KR3JYWDY7ZNKC2M.JPG&w=1440",
+      "publishedAt": "2022-10-04T14:19:59Z",
+      "content": "Ukrainian troops on Tuesday accelerated their military advances on two fronts, pushing Russian forces into retreat in the Donetsk and Luhansk regions to the east and Kherson region to the south.\r\nThe… [+13874 chars]"
+    },
+    {
+      "source": {
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
+      },
+      "author": "Austen Hufford",
+      "title": "U.S. Job Openings Fell in August - WSJ - The Wall Street Journal",
+      "description": "The number of open jobs in the U.S. economy dropped by 10% and layoffs rose slightly, signs that the labor market is starting to cool.",
+      "url": "https://www.wsj.com/articles/job-openings-hiring-economy-august-2022-11664833689",
+      "urlToImage": "https://images.wsj.net/im-636192/social",
+      "publishedAt": "2022-10-04T14:18:00Z",
+      "content": "The number of open jobs in the U.S. economy dropped by 10% and layoffs rose slightly, signs that the labor market is starting to cool. \r\nThe Labor Department said Tuesday that job openings fell to a … [+277 chars]"
+    },
+    {
+      "source": { "id": "cnn", "name": "CNN" },
+      "author": "Yoonjung Seo, Emiko Jozuka, Junko Ogura, Brad Lendon, Simone McCarthy",
+      "title": "Japan issues rare alert as North Korea fires missile without warning over main island - CNN",
+      "description": "Japan urged residents to take shelter early Tuesday morning after North Korea fired a ballistic missile without warning over the country for the first time in five years, in a major and potentially dangerous escalation of recent weapons tests by the Kim Jong …",
+      "url": "https://www.cnn.com/2022/10/03/asia/north-korea-missile-suspected-intl/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/220924184829-north-korea-ballistic-missile-intl-hnk.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2022-10-04T13:45:00Z",
+      "content": "Japan urged residents to take shelter early Tuesday morning after North Korea fired a ballistic missile without warning over the country for the first time in five years, in a major and potentially d… [+6103 chars]"
+    },
+    {
+      "source": { "id": "cnn", "name": "CNN" },
+      "author": "Lisa Respers France",
+      "title": "Will Smith shares sneak peek of 'Emancipation' - CNN",
+      "description": "Will Smith has shared a first look at his next big project.",
+      "url": "https://www.cnn.com/2022/10/03/entertainment/will-smith-emancipation/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/221003134027-emancipation-trailer-will-smith-apple-tv.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2022-10-04T13:06:00Z",
+      "content": "Will Smith has shared a first look at his next big project.\r\nSmith posted a powerful trailer on Monday for the upcoming Apple TV+ film, Emancipation.\r\nThe actor plays a slave who embarks on a perilou… [+779 chars]"
+    },
+    {
+      "source": { "id": "engadget", "name": "Engadget" },
+      "author": "https://www.engadget.com/about/editors/steve-dent",
+      "title": "Google's Nest WiFi Pro arrives with faster speeds and new high-gloss design | Engadget - Engadget",
+      "description": "As expected, Google has unveiled the Nest WiFi Pro mesh router system with a new glossy design, faster WiFi 6E speeds and a simpler setup..",
+      "url": "https://www.engadget.com/google-nest-wifi-pro-faster-speeds-high-gloss-design-130035266.html",
+      "urlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2022-10/8e1cec50-43c2-11ed-af67-9481692c9ed7",
+      "publishedAt": "2022-10-04T13:04:21Z",
+      "content": "As expected, Google has unveiled the Nest WiFi Pro mesh router system with a new glossy design, faster WiFi 6E speeds and a simple setup. It will also work as a Matter hub once Google's new smart hom… [+1939 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Barron's" },
+      "author": "Teresa Rivas",
+      "title": "Credit Suisse Is In Deep Trouble. What It Means for U.S. Banks. - Barron's",
+      "description": "The Swiss financial company is facing a loss of confidence from investors. U.S. institutions are on more stable ground, though earnings season could get messy.",
+      "url": "https://www.barrons.com/articles/credit-suisse-stock-price-contagion-51664826236",
+      "urlToImage": "https://images.barrons.com/im-635725/social",
+      "publishedAt": "2022-10-04T12:49:00Z",
+      "content": "Everything old is new again. There are major problems at a big storied bank and credit default swaps are being watched closely once again against a backdrop of wider worries about a potential recessi… [+593 chars]"
+    },
+    {
+      "source": { "id": "nfl-news", "name": "NFL News" },
+      "author": "Dan Hanzus",
+      "title": "NFL Power Rankings, Week 5: 49ers vault back into top five, send Rams tumbling out of top 10 - NFL.com",
+      "description": "Parity remains a king in the NFL, making the Power Rankings an arduous undertaking. What is the pecking order at the quarter mark of the 2022 season? Dan Hanzus provides the full rundown, 1 through 32, with the 49ers re-entering the top five.",
+      "url": "https://www.nfl.com/news/nfl-power-rankings-week-5-2022-nfl-season",
+      "urlToImage": "https://static.www.nfl.com/image/private/t_editorial_landscape_12_desktop/league/pexzdmuojjpvswr727mc",
+      "publishedAt": "2022-10-04T12:45:00Z",
+      "content": "Parity remains a calling card of the NFL as we hit the quarter point of the regular season.\r\nThe league currently has one unbeaten team (Eagles), one winless squad (Texans), seven teams at 3-1, seven… [+382 chars]"
+    },
+    {
+      "source": {
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
+      },
+      "author": "Laine Higgins",
+      "title": "The 2022 College Football Season Is Setting Records—in Coach Firings - The Wall Street Journal",
+      "description": "The dismissal of Wisconsin’s Paul Chryst marked the fifth time this season that the head coach of a top program has lost his job.",
+      "url": "https://www.wsj.com/articles/college-football-season-coach-firings-11664872294",
+      "urlToImage": "https://images.wsj.net/im-635840/social",
+      "publishedAt": "2022-10-04T12:00:00Z",
+      "content": "The 2022 college football season is barely a month old and its already breaking recordsfor coaches getting fired. \r\nA year ago, the sport saw an unprecedented three coaches from the Football Bowl Sub… [+256 chars]"
+    },
+    {
+      "source": { "id": "cbs-news", "name": "CBS News" },
+      "author": "Kathryn Watson",
+      "title": "Marc Short says Trump's post on Elaine Chao was a \"racial slur\" that was \"obviously wrong\" - CBS News",
+      "description": "Trump's Transportation Secretary Elaine Chao and her family have been strong crusaders against communist China their whole lives.",
+      "url": "https://www.cbsnews.com/news/trump-mitch-mcconnell-elaine-chao-racial-slur-marc-short/",
+      "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2022/10/03/c68db692-9dda-4397-b328-0ab8f9b6409e/thumbnail/1200x630/1b0722a0a7cff3fe7c6a6122f07387f6/cbsn-fusion-marc-short-on-trumps-mcconnell-death-wish-comment-thumbnail-1343787-640x360.jpg",
+      "publishedAt": "2022-10-04T11:57:00Z",
+      "content": "Marc Short, a senior adviser to former Vice President Mike Pence and onetime director of legislative affairs under then-President Trump, said it was \"obviously wrong\" for the former president to use … [+2404 chars]"
+    },
+    {
+      "source": { "id": "reuters", "name": "Reuters" },
+      "author": null,
+      "title": "UK's Truss refuses to rule out welfare cuts to fund economic plan - Reuters UK",
+      "description": "Britain's new Prime Minister <a href=\"https://www.reuters.com/world/uk/britains-weakened-truss-faces-fight-credibility-2022-10-04/\" target=\"_blank\">Liz Truss</a> triggered a fresh row in her party on Tuesday by suggesting that she could limit increases in ben…",
+      "url": "https://www.reuters.com/world/uk/uks-truss-refuses-rule-out-welfare-cuts-fund-economic-plan-2022-10-04/",
+      "urlToImage": "https://www.reuters.com/resizer/UsNL71oCGTTrGS_T9bl4HSvOju4=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/T6TUCH6FNZP6BAVOVPAPZHTCKM.jpg",
+      "publishedAt": "2022-10-04T11:55:00Z",
+      "content": "BIRMINGHAM, England Oct 4 (Reuters) - Britain's new Prime Minister Liz Truss triggered a fresh row in her party on Tuesday by suggesting that she could limit increases in benefit payments by less tha… [+4395 chars]"
+    },
+    {
+      "source": { "id": "reuters", "name": "Reuters" },
+      "author": null,
+      "title": "Kremlin welcomes Elon Musk proposal for Ukraine settlement denounced by Kyiv - Reuters",
+      "description": "The Kremlin praised Tesla boss Elon Musk on Tuesday for suggesting a possible peace deal to end the war in Ukraine, after Kyiv rebuked Musk for proposing terms it views as rewarding Russia.",
+      "url": "https://www.reuters.com/world/europe/kremlin-welcomes-elon-musk-proposal-ukraine-settlement-denounced-by-kyiv-2022-10-04/",
+      "urlToImage": "https://www.reuters.com/resizer/gEJTe3YDnNaPupxk6huL2MeurZ4=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/W4FEET4DMFOY7A65E4ECZ4FL4U.jpg",
+      "publishedAt": "2022-10-04T11:44:00Z",
+      "content": "MOSCOW, Oct 4 (Reuters) - The Kremlin praised Tesla boss Elon Musk on Tuesday for suggesting a possible peace deal to end the war in Ukraine, after Kyiv rebuked Musk for proposing terms it views as r… [+1906 chars]"
+    },
+    {
+      "source": { "id": "reuters", "name": "Reuters" },
+      "author": null,
+      "title": "EU approves phone charger reform, forcing Apple to adapt - Reuters",
+      "description": "The European Parliament approved new rules on Tuesday that will introduce in the European Union a single charging port for mobile phones, tablets and cameras by 2024, a world first that is expected to affect iPhone maker Apple more than its rivals.",
+      "url": "https://www.reuters.com/technology/eu-parliament-adopts-rules-common-charger-electronic-devices-2022-10-04/",
+      "urlToImage": "https://www.reuters.com/resizer/rGduoU1iCkA--uZxx-x88StFLwY=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/ISUI7XO6M5POZFCKS3FID6BD4A.jpg",
+      "publishedAt": "2022-10-04T11:10:00Z",
+      "content": "BRUSSELS, Oct 4 (Reuters) - The European Parliament approved new rules on Tuesday that will introduce in the European Union a single charging port for mobile phones, tablets and cameras by 2024, a wo… [+1839 chars]"
+    },
+    {
+      "source": { "id": "cnn", "name": "CNN" },
+      "author": "Tierney Sneed, Hannah Rabinowitz, Holmes Lybrand",
+      "title": "Takeaways from the dramatic first day and opening statements of the Oath Keepers trial - CNN",
+      "description": "With the historic case that they had brought against Oath Keepers accused of plotting to attack the US Capitol on January 6, 2021, prosecutors framed up how the jury should think about the allegations with an hour-plus opening statement that kicked off the tr…",
+      "url": "https://www.cnn.com/2022/10/03/politics/takeaways-oath-keepers-sedition-opening-arguments-january-6-us-capitol/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/210122212754-oath-keepers-sidner.jpg?q=x_0,y_0,h_619,w_1100,c_fill/w_800",
+      "publishedAt": "2022-10-04T11:03:00Z",
+      "content": "With the historic case that they had brought against Oath Keepers accused of plotting to attack the US Capitol on January 6, 2021, prosecutors framed up how the jury should think about the allegation… [+14915 chars]"
+    },
+    {
+      "source": { "id": null, "name": "The Guardian" },
+      "author": "Sam Levine, Ed Pilkington",
+      "title": "Democracy, poisoned: America’s elections are being attacked at every level - The Guardian US",
+      "description": "In the first of a new series, we look at how November’s midterm elections could be an inflection point as election deniers seek to take control of the vote counting process",
+      "url": "https://www.theguardian.com/us-news/2022/oct/04/us-democracy-attack-midterms-election-constitutional-crisis-2024",
+      "urlToImage": "https://i.guim.co.uk/img/media/3327da6a278bd40d836f8d47e537cd2ecdd132c8/0_0_1500_900/master/1500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9d69b4445cfaf71a249221d691de91ab",
+      "publishedAt": "2022-10-04T10:00:00Z",
+      "content": "Item number 28 on the agenda for the March meeting of the county commission in rural southern Nevada seemed benign enough. But by the end of the hour-and-45-minute presentation Sandra Merlino, the lo… [+16316 chars]"
+    },
+    {
+      "source": { "id": null, "name": "NBCSports.com" },
+      "author": "Michael David Smith",
+      "title": "Sean McVay: Rams’ offense had too many self-inflicted wounds, I expect us to be better - NBC Sports",
+      "description": "The Rams’ offense did not score a touchdown in Monday night’s 24-9 loss to the 49ers, and Rams coach Sean McVay was not happy with how many mental mistakes he saw.“The story of the night from an offensive perspective was self-inflicted wounds, above-the-neck …",
+      "url": "https://profootballtalk.nbcsports.com/2022/10/04/sean-mcvay-rams-offense-had-too-many-self-inflicted-wounds-i-expect-us-to-be-better/",
+      "urlToImage": "https://profootballtalk.nbcsports.com/wp-content/uploads/sites/25/2022/10/GettyImages-1243712339-e1664875477122.jpg",
+      "publishedAt": "2022-10-04T09:24:00Z",
+      "content": "The Rams offense did not score a touchdown in Monday nights 24-9 loss to the 49ers, and Rams coach Sean McVay was not happy with how many mental mistakes he saw.\r\nThe story of the night from an offen… [+504 chars]"
+    },
+    {
+      "source": { "id": null, "name": "SciTechDaily" },
+      "author": null,
+      "title": "Immense Trail of Debris From DART Collision With Asteroid Dimorphos Captured by SOAR Telescope - SciTechDaily",
+      "description": "SOAR Telescope Catches Dimorphos’s Expanding Comet-like Tail After DART Impact The SOAR Telescope in Chile imaged the more than 10,000 kilometers long trail of debris blasted from the surface of Dimorphos two days after the asteroid was impacted by NASA’s DAR…",
+      "url": "https://scitechdaily.com/immense-trail-of-debris-from-dart-collision-with-asteroid-dimorphos-captured-by-soar-telescope/",
+      "urlToImage": "https://scitechdaily.com/images/Aftermath-of-DART-Collision-With-Dimorphos-Captured-by-SOAR-Telescope.jpg",
+      "publishedAt": "2022-10-04T08:30:09Z",
+      "content": "ByAssociation of Universities for Research in Astronomy (AURA)October 4, 2022\r\nAstronomers using the SOAR telescope in Chile captured the vast plume of dust and debris blasted from the surface of the… [+6600 chars]"
+    },
+    {
+      "source": { "id": "reuters", "name": "Reuters" },
+      "author": null,
+      "title": "Who is Ibrahim Traore, the soldier behind Burkina Faso's latest coup? - Reuters",
+      "description": "As a heavily armed convoy drove through a cheering crowd in Burkina Faso's capital on Sunday morning, the boyish face of the country's latest military ruler, Captain Ibrahim Traore, emerged from the turret of an armoured personnel carrier.",
+      "url": "https://www.reuters.com/world/africa/who-is-ibrahim-traore-soldier-behind-burkina-fasos-latest-coup-2022-10-03/",
+      "urlToImage": "https://www.reuters.com/resizer/HoTDeU-w_-s-I0TYb3-9O9LT1qE=/728x381/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/XB2W52AX3ZKLTJHDQLIJBMXTSU.jpg",
+      "publishedAt": "2022-10-04T08:20:00Z",
+      "content": "DAKAR, Oct 3 (Reuters) - As a heavily armed convoy drove through a cheering crowd in Burkina Faso's capital on Sunday morning, the boyish face of the country's latest military ruler, Captain Ibrahim … [+4370 chars]"
+    },
+    {
+      "source": { "id": "reuters", "name": "Reuters" },
+      "author": null,
+      "title": "PlayStation eyes new investment for PC, mobile push - Reuters",
+      "description": "Sony Group Corp's <a href=\"https://www.reuters.com/companies/6758.T\" target=\"_blank\">(6758.T)</a> gaming business is looking at fresh investment to bolster its push into PC and mobile, a senior executive said, as the PlayStation 5 maker competes for talent wi…",
+      "url": "https://www.reuters.com/markets/deals/playstation-eyes-new-investment-pc-mobile-push-2022-10-04/",
+      "urlToImage": "https://www.reuters.com/resizer/r_PHGwlnVwU_mGUExLM7rYa6FFA=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/5UH5PBUFY5J3RPCEAEPWIXNNCQ.jpg",
+      "publishedAt": "2022-10-04T07:12:00Z",
+      "content": "TOKYO, Oct 4 (Reuters) - Sony Group Corp's (6758.T) gaming business is looking at fresh investment to bolster its push into PC and mobile, a senior executive said, as the PlayStation 5 maker competes… [+3446 chars]"
+    }
+  ]
+}
